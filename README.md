@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Anthony D. Martins!
+# 👋 Hello, I'm Anthony Martins!
 
 **Junior Developer | Dynamics 365 Finance and Operations (D365 FO)**
 
